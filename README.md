@@ -1,2 +1,2 @@
-# Public_Speaking_Hits
+# Public Speaking Hits
 A Helpful list of quick and useful public speaking lines
