@@ -2,14 +2,16 @@
 A Helpful list of quick and useful public speaking lines.  Please feel free to add your own lines or properly acredit other speakers who's material is notable.
 
 - [Something Went Wrong](#something-went-wrong)
-    - [Story or Joke Bombs](#story-or-joke-bomb)
+    - [Story or Joke Bombs](#story-or-joke-bombs)
     - [Technical Difficulty](#technical-difficulty)
-- [Seasoning](#seasoning)
+- [Speaker Seasoning](#speaker-seasoning)
    - [Openers](#openers)
    - [Intros](#intros)
    - [Closers](#closers)
 - [Time Buyers](#time-buyers)
-  - [Short Jokes](#short-jokes)
+  - [Q&A With Audience](#qa-with-audience)
+  - [One Liners](#one-liners)
+  
 
 
 ## Something Went Wrong
@@ -28,13 +30,13 @@ These lines are for situations where things go off the rails.  It's important in
 * "It was nothing. You can tell by the applause." - [Tom Ogden](http://tomogden.com/)
 
 
-### Techincal Difficulty
+### Technical Difficulty
 
 #### Late / Delay
 
 * "Sorry I'm late. I circled the parking lot for an hour. There were plenty of parking saces, I was just scared to come in." - Current Comedy Newsletter
 
-## Seasoning
+## Speaker Seasoning
 
 Lines to throw in to make your audience engage, excited, and keep things on the right foot.
 
@@ -57,9 +59,7 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 
 These tricks help you buy time for when a computer crashes, an assistant is in the bathroom, or you simply don't know what else to say while something taxes your audience's sweet attention.  
 
-### Short Jokes
-
-#### Q&A With Audience
+### Q&A With Audience
 
 Q: How do you make holy water?  
 A: You boil the "hell" out of it.
@@ -109,7 +109,7 @@ A: The ICU
 Q: Where do bad rainbows go?
 A: To prism.
 
-#### One Liners
+### One Liners
 
 * I've been told some people don't like my cheesey jokes, I guess they are "LAUGH"tose intolerant.
 * My sweater was picking up a lot of static electricity, so I returned it for another one free of charge.
