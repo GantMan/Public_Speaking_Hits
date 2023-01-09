@@ -97,7 +97,7 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 
 ## ⌚ Time Buyers
 
-These tricks help you buy time for when a computer crashes, an assistant is in the bathroom, or you simply don't know what else to say while something taxes your audience's sweet attention.  
+These tricks help you buy time for when a computer crashes, an assistant is in the bathroom, or you simply don't know what else to say while something tests your audience's sweet attention.  
 
 <details>
 <summary>
