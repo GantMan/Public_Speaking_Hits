@@ -1,6 +1,11 @@
-# Public Speaking Hits
-A Helpful list of quick and useful public speaking lines.  Please feel free to add your own lines or properly acredit other speakers who's material is notable.
+<h1 align="center">Public Speaking Hits</h1>
+<p align="center">
+<img align="center" width="50%" src="https://user-images.githubusercontent.com/997157/211348690-a1981d38-31ec-4959-8e79-c2fa6a97183f.jpg" />
+</p>
+<h3 align="center">A Helpful list of quick and useful public speaking lines.</h3>
 
+
+# Table of Contents
 - [Something Went Wrong](#-something-went-wrong)
     - [Story or Joke Bombs](#story-or-joke-bombs)
     - [Computer Crashes](#computer-crashes)
@@ -12,7 +17,9 @@ A Helpful list of quick and useful public speaking lines.  Please feel free to a
   - [Q&A With Audience](#qa-with-audience)
   - [One Liners](#one-liners)
   
+**Contributors:**  Feel free to add your own lines or properly acredit other speakers who's material is notable.  This OS repo is meant as a guide of resources for everyone who's looking to equip themselves for the exciting world of public speaking.
 
+<hr>
 
 ## 🚫 Something Went Wrong 
 
