@@ -28,6 +28,7 @@ These lines are for situations where things go off the rails.  It's important in
 * Think of a person who's very likable and has a sense of humor, and then say "That's the last time I ever do ______'s jokes" - [Gant Laborde](https://gantlaborde.com/)
 * "Services for that joke will be held 2pm on Sunday" - Current Comedy Newsletter
 * "It was nothing. You can tell by the applause." - [Tom Ogden](http://tomogden.com/)
+* "Well, I've always been told that laughter is the best medicine. I guess that joke was more of a placebo." - [chatGPT](https://chat.openai.com/chat)
 
 
 ### Technical Difficulty
@@ -35,6 +36,10 @@ These lines are for situations where things go off the rails.  It's important in
 #### Late / Delay
 
 * "Sorry I'm late. I circled the parking lot for an hour. There were plenty of parking saces, I was just scared to come in." - Current Comedy Newsletter
+
+#### Computer Crashes
+
+* "Looks like we've got a little glitch in the system. I guess that's what I get for using technology from the 90s." - [chatGPT](https://chat.openai.com/chat)
 
 ## Speaker Seasoning
 
@@ -44,11 +49,12 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 
 * "My father always said, if you want a room of people to listen to you, start off with a quote from me... thanks Dad" - [Gant Laborde](https://gantlaborde.com/)
 * "Last night I tried to eliminate anything in my speech that seemed in any way dull. So in conclusion..." - [Terry Paulson](http://www.terrypaulson.com/)
+* "Good evening, everyone. I'm honored to be here tonight, despite the fact that I'm pretty sure I got invited by mistake." - [chatGPT](https://chat.openai.com/chat)
 
 ### Intros
 
-* It takes guts to do what this person is going to do.  It also takes guts to be a an organ doner.
-* This next person just told me I have two faults. They think I'm bad at listening, and... something else.
+* "It takes guts to do what this person is going to do.  It also takes guts to be a an organ doner." - _Anon_
+* "This next person just told me I have two faults. They think I'm bad at listening, and... something else." - _Anon_
 
 ### Closers
 
