@@ -9,6 +9,7 @@
 - [Something Went Wrong](#-something-went-wrong)
     - [Story or Joke Bombs](#story-or-joke-bombs)
     - [Computer Crashes](#computer-crashes)
+    - [Failing to Speak Clearly](#failing-to-speak-clearly)
 - [Speaker Seasoning](#-speaker-seasoning)
    - [Openers](#openers)
    - [Intros](#intros)
@@ -61,6 +62,18 @@ These lines are for situations where things go off the rails.  It's important in
 * "Looks like we've got a little glitch in the system. I guess that's what I get for using technology from the 90s." - [chatGPT](https://chat.openai.com/chat)
 * "Well that's one way to make an exit" - [Gant Laborde](https://gantlaborde.com/)
 * "The rest of my presentation will be done via interpretive dance" - _Anon_
+</details>
+
+<details>
+<summary>
+<h3>Failing to Speak Clearly</h3>
+</summary>
+
+* "To help you, the rest of my speech will be dubbed in English" - [Terry Paulson](http://www.terrypaulson.com/)
+* "Well I guess I hit the stumble button" - [chatGPT](https://chat.openai.com/chat)
+* "For a moment there, I thought I was at the Dentist"  - [Gant Laborde](https://gantlaborde.com/)
+* "Wow I seem to be rejecting this tongue transplant" - [John Nisbet](https://www.imdb.com/name/nm3138424/)
+
 </details>
 
 ## 🧂 Speaker Seasoning
