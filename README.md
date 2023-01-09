@@ -42,7 +42,7 @@ These lines are for situations where things go off the rails.  It's important in
 
 * "Sorry I'm late. I circled the parking lot for an hour. There were plenty of parking saces, I was just scared to come in." - Current Comedy Newsletter
 * "Don't pay the randsome! I've escaped!" - [Ed McManus](https://www.linkedin.com/in/edward-c-mcmanus-285b54/recent-activity/posts/)
-* "Sorry I'm late and it took me quite a while to sell my car" - [Terry Paulson](http://www.terrypaulson.com/)
+* "Sorry I'm late the parking lot was full and it took me quite a while to sell my car" - [Terry Paulson](http://www.terrypaulson.com/)
 * "My sundial needs new batteries" - [Deanna Jean Brown](https://deannalifecoach.com/)
 </details>
 
@@ -84,8 +84,8 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 <h3>Closers</h3>
 </summary>
 
-* I need to go. They don't even know I left the hospital. - [Gene Mitchener](https://twitter.com/sitdowncomic)
-* I see we have run out of time before I have run out of things to say - that's what you get when your speaker is a manic expressive - [Lilly Walters](http://www.aboutonehandtyping.com/lilly.html)
+* "I need to go. They don't even know I left the hospital." - [Gene Mitchener](https://twitter.com/sitdowncomic)
+* "I see we have run out of time before I have run out of things to say - that's what you get when your speaker is a manic expressive!" - [Lilly Walters](http://www.aboutonehandtyping.com/lilly.html)
 </details>
 
 ## ⌚ Time Buyers
