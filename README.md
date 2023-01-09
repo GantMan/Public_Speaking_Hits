@@ -16,7 +16,7 @@ A Helpful list of quick and useful public speaking lines.  Please feel free to a
 
 ## 🚫 Something Went Wrong 
 
-These lines are for situations where things go off the rails.  It's important in times like this to find a way to keep guidance with the
+These lines are for situations where things go off the rails.  It's important in times like this to find a way to keep and guide the audience's attention.
 
 <details>
 <summary>
