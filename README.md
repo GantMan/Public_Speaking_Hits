@@ -1,24 +1,27 @@
 # Public Speaking Hits
 A Helpful list of quick and useful public speaking lines.  Please feel free to add your own lines or properly acredit other speakers who's material is notable.
 
-- [Something Went Wrong](#something-went-wrong)
+- [Something Went Wrong](#-something-went-wrong)
     - [Story or Joke Bombs](#story-or-joke-bombs)
-    - [Technical Difficulty](#technical-difficulty)
-- [Speaker Seasoning](#speaker-seasoning)
+    - [Computer Crashes](#computer-crashes)
+- [Speaker Seasoning](#-speaker-seasoning)
    - [Openers](#openers)
    - [Intros](#intros)
    - [Closers](#closers)
-- [Time Buyers](#time-buyers)
+- [Time Buyers](#-time-buyers)
   - [Q&A With Audience](#qa-with-audience)
   - [One Liners](#one-liners)
   
 
 
-## Something Went Wrong
+## 🚫 Something Went Wrong 
 
 These lines are for situations where things go off the rails.  It's important in times like this to find a way to keep guidance with the
 
-### Story or Joke Bombs
+<details>
+<summary>
+<h3>Story or Joke Bombs</h3>
+</summary>
 
 * Pucker your lips and imitate a bugler playing Taps - [Dick Flavin](http://www.dickflavin.com/)
 * "Here's another you might not care for" - [Ron Dentinger](https://www.wcspeakers.com/speaker/ron-dentinger/)
@@ -30,92 +33,123 @@ These lines are for situations where things go off the rails.  It's important in
 * "It was nothing. You can tell by the applause." - [Tom Ogden](http://tomogden.com/)
 * "Well, I've always been told that laughter is the best medicine. I guess that joke was more of a placebo." - [chatGPT](https://chat.openai.com/chat)
 
+</details>
 
-### Technical Difficulty
-
-#### Late / Delay
+<details>
+<summary>
+<h3>Late / Delay</h3>
+</summary>
 
 * "Sorry I'm late. I circled the parking lot for an hour. There were plenty of parking saces, I was just scared to come in." - Current Comedy Newsletter
+* "Don't pay the randsome! I've escaped!" - [Ed McManus](https://www.linkedin.com/in/edward-c-mcmanus-285b54/recent-activity/posts/)
+* "Sorry I'm late and it took me quite a while to sell my car" - [Terry Paulson](http://www.terrypaulson.com/)
+* "My sundial needs new batteries" - [Deanna Jean Brown](https://deannalifecoach.com/)
+</details>
 
-#### Computer Crashes
+<details>
+<summary>
+<h3>Computer Crashes</h3>
+</summary>
 
 * "Looks like we've got a little glitch in the system. I guess that's what I get for using technology from the 90s." - [chatGPT](https://chat.openai.com/chat)
+* "Well that's one way to make an exit" - [Gant Laborde](https://gantlaborde.com/)
+* "The rest of my presentation will be done via interpretive dance" - _Anon_
+</details>
 
-## Speaker Seasoning
+## 🧂 Speaker Seasoning
 
 Lines to throw in to make your audience engage, excited, and keep things on the right foot.
 
-### Openers
+<details>
+<summary>
+<h3>Openers</h3>
+</summary>
 
 * "My father always said, if you want a room of people to listen to you, start off with a quote from me... thanks Dad" - [Gant Laborde](https://gantlaborde.com/)
 * "Last night I tried to eliminate anything in my speech that seemed in any way dull. So in conclusion..." - [Terry Paulson](http://www.terrypaulson.com/)
 * "Good evening, everyone. I'm honored to be here tonight, despite the fact that I'm pretty sure I got invited by mistake." - [chatGPT](https://chat.openai.com/chat)
+</details>
 
-### Intros
+<details>
+<summary>
+<h3>Intros</h3>
+</summary>
 
 * "It takes guts to do what this person is going to do.  It also takes guts to be a an organ doner." - _Anon_
 * "This next person just told me I have two faults. They think I'm bad at listening, and... something else." - _Anon_
+</details>
 
-### Closers
+<details>
+<summary>
+<h3>Closers</h3>
+</summary>
 
 * I need to go. They don't even know I left the hospital. - [Gene Mitchener](https://twitter.com/sitdowncomic)
 * I see we have run out of time before I have run out of things to say - that's what you get when your speaker is a manic expressive - [Lilly Walters](http://www.aboutonehandtyping.com/lilly.html)
+</details>
 
-## Time Buyers
+## ⌚ Time Buyers
 
 These tricks help you buy time for when a computer crashes, an assistant is in the bathroom, or you simply don't know what else to say while something taxes your audience's sweet attention.  
 
-### Q&A With Audience
+<details>
+<summary>
+<h3>Q&A With Audience</h3>
+</summary>
 
 Q: How do you make holy water?  
 A: You boil the "hell" out of it.
 
-Q: Why did the strawberry cry?
+Q: Why did the strawberry cry?<br>
 A: Her mom and dad were in a jam.
 
-Q: What do you get when you boil your funny bone?
+Q: What do you get when you boil your funny bone?<br>
 A: A laughing stock.
 
-Q: If April showers bring May flowers, what do May Flowers bring?
+Q: If April showers bring May flowers, what do May Flowers bring?<br>
 A: Pilgrims
 
-Q: Why is "dark" spelled with a "K"?
+Q: Why is "dark" spelled with a "K"?<br>
 A: You can't "c" in the dark.
 
-Q: Why did the electrician fall in love with every girl he ever met?
+Q: Why did the electrician fall in love with every girl he ever met?<br>
 A: He couldn't resistor.  WAT!?  That joke hertz
 
-Q: Why did the dog bowl always come in last?
+Q: Why did the dog bowl always come in last?<br>
 A: He was lapped.
 
-Q: How did the hacker escape the police?
+Q: How did the hacker escape the police?<br>
 A: He ransomware
 
-Q: What do you call a magician who's lost his magic?
+Q: What do you call a magician who's lost his magic?<br>
 A: Ian
 
-Q: What's the opposite of lady fingers?
+Q: What's the opposite of lady fingers?<br>
 A: Mentos
 
-Q: What happens when you mix a joke with a rhetorical question?
+Q: What happens when you mix a joke with a rhetorical question?<br>
 A: ...
 
-Q: Why can't the green pepper practice archery?
+Q: Why can't the green pepper practice archery?<br>
 A: Because he doesn't habanero.
 
-Q: What do you call a nosey pepper?
+Q: What do you call a nosey pepper?<br>
 A: Jalepino business
 
-Q: What do Europeans call bigfoot?
+Q: What do Europeans call bigfoot?<br>
 A: Bigmeter
 
-Q: Where do take someone injured in a "peekaboo" accident?
+Q: Where do take someone injured in a "peekaboo" accident?<br>
 A: The ICU
 
-Q: Where do bad rainbows go?
+Q: Where do bad rainbows go?<br>
 A: To prism.
+</details>
 
-### One Liners
+<details>
+<summary>
+<h3>One Liners</h3>
+</summary>
 
 * I've been told some people don't like my cheesey jokes, I guess they are "LAUGH"tose intolerant.
 * My sweater was picking up a lot of static electricity, so I returned it for another one free of charge.
@@ -140,5 +174,4 @@ A: To prism.
 * I have a fear of elevators but I'm taking steps to avoid them.
 * Prison walls are never built to scale.
 * I have a friend who always skips a letter in the alphabet and never says "Y"
-
-
+</details>
