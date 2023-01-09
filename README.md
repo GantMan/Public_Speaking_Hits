@@ -24,8 +24,8 @@ These lines are for situations where things go off the rails.  It's important in
 * "Here's another you might not care for" - [Ron Dentinger](https://www.wcspeakers.com/speaker/ron-dentinger/)
 * "That was a subliminal joke, you won't laugh, but your liminal thinks it's hilarious" - _Anon_
 * Pretend to write in a journal and speak aloud, "Never do that joke again", then slam book - _Anon_
-* Think of a person who's very likable and has a sense of humor, and then say "That's the last time I ever do ______'s jokes" - [Gant Laborde](https://gantlaborde.com/)
 * "If silence is golden, that joke is worth abotu $40,000" - [Alan Pease](https://en.wikipedia.org/wiki/Allan_Pease)
+* Think of a person who's very likable and has a sense of humor, and then say "That's the last time I ever do ______'s jokes" - [Gant Laborde](https://gantlaborde.com/)
 * "Services for that joke will be held 2pm on Sunday" - Current Comedy Newsletter
 * "It was nothing. You can tell by the applause." - [Tom Ogden](http://tomogden.com/)
 
