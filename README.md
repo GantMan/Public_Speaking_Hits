@@ -63,6 +63,7 @@ These lines are for situations where things go off the rails.  It's important in
 * "Looks like we've got a little glitch in the system. I guess that's what I get for using technology from the 90s." - [chatGPT](https://chat.openai.com/chat)
 * "Well that's one way to make an exit" - [Gant Laborde](https://gantlaborde.com/)
 * "The rest of my presentation will be done via interpretive dance" - _Anon_
+* Use the talk to justify the situation, if you're talking about how hard it is to do things in production say "This is a prime example" - [Swyx](https://twitter.com/swyx)
 </details>
 
 <details>
