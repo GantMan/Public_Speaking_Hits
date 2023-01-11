@@ -184,6 +184,9 @@ A: To prism.
     
 Q: What's the difference between a duck and George Washington?<br>
 A: One has a bill on his face, and the other has his face on a bill.
+    
+Q: What do you call a knight who is afraid to fight?<br>
+A: Sir Render.
 </details>
 
 <details>
