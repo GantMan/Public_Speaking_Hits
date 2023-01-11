@@ -10,6 +10,7 @@
     - [Story or Joke Bombs](#story-or-joke-bombs)
     - [Computer Crashes](#computer-crashes)
     - [Failing to Speak Clearly](#failing-to-speak-clearly)
+    - [Someone Trips or Falls](#someone-trips-or-falls)
 - [Speaker Seasoning](#-speaker-seasoning)
    - [Openers](#openers)
    - [Intros](#intros)
@@ -74,6 +75,22 @@ These lines are for situations where things go off the rails.  It's important in
 * "For a moment there, I thought I was at the Dentist"  - [Gant Laborde](https://gantlaborde.com/)
 * "Wow I seem to be rejecting this tongue transplant" - [John Nisbet](https://www.imdb.com/name/nm3138424/)
 
+</details>
+
+<details>
+<summary>
+<h3>Someone Trips or Falls</h3>
+</summary>
+
+* "All that money spent on breakdancing wasted!" - [Gant Laborde](https://gantlaborde.com/)
+* "Tah Dah!" and put your hands in the air as if planned - [Terry Paulson](http://www.terrypaulson.com/)
+* "Did you notice the world 'graceful' wasn't in my introduction?" - [Terry Braverman](https://www.terrybraverman.com/)
+* "OK, who planted the banana peel?" - _Anon_
+* "Hey, it's an acquired skill" - [Bob Burg](https://burg.com/)
+* "That's a strange place to put a speedbump" - Current Comedy Newsletter
+* "I could have sworn I fixed that" - _Anon_
+* "You'll have to forgive me, I haven't been myself today... I know some people are hoping I'll stay that way" - [Leonard Ryzman](https://www.goodreads.com/author/show/1195337.Leonard_Ryzman)
+    
 </details>
 
 ## 🧂 Speaker Seasoning
