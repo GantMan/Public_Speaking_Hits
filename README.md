@@ -181,6 +181,9 @@ A: The ICU
 
 Q: Where do bad rainbows go?<br>
 A: To prism.
+    
+Q: What's the difference between a duck and George Washington?<br>
+A: One has a bill on his face, and the other has his face on a bill.
 </details>
 
 <details>
