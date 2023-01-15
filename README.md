@@ -11,6 +11,7 @@
     - [Computer Crashes](#computer-crashes)
     - [Failing to Speak Clearly](#failing-to-speak-clearly)
     - [Someone Trips or Falls](#someone-trips-or-falls)
+    - [Disturbance or Distraction](#disturbance-or-distraction)
 - [Speaker Seasoning](#-speaker-seasoning)
    - [Openers](#openers)
    - [Intros](#intros)
@@ -94,6 +95,22 @@ These lines are for situations where things go off the rails.  It's important in
 * "You'll have to forgive me, I haven't been myself today... I know some people are hoping I'll stay that way" - [Leonard Ryzman](https://www.goodreads.com/author/show/1195337.Leonard_Ryzman)
     
 </details>
+
+<details>
+<summary>
+<h3>Disturbance or Distraction</h3>
+</summary>
+
+* "I had a friend who died from a sneeze like that, of course, he was standing in his neighbor's closet" - (Charles Jarvis)[https://en.wikipedia.org/wiki/Charles_Jarvis_(businessman)]
+* when an audience member makes a fowl sound, "Is that accident or opinion?" - [Alan Pease](https://en.wikipedia.org/wiki/Allan_Pease)
+* audience members argue or talk loudly - "I think the party you're looking for is down the hall" - [W Mitchell](https://en.wikipedia.org/wiki/W_Mitchell)
+* microphone feedback, someone coughs loudly etc. just look disgruntled and say "critics!" - [Gant Laborde](https://gantlaborde.com/)
+* loud conversation - "Oh good another speaker, I thought I was gonna have to do this alone" - [Ron Dentinger](https://www.wcspeakers.com/speaker/ron-dentinger/)
+* "You have the right to remain silent!" - Jack Anderson
+* lound noises from people - "Remember the days when alcoholics wanted to remain anonymous?" - [Terry Brewer](https://www.interdependence.org/programs-speaker/terry-brewer/)
+* "I'm flattered, but please save your applause for the end." - [chatGPT](https://chat.openai.com/chat)
+</details>
+
 
 ## 🧂 Speaker Seasoning
 
