@@ -101,7 +101,7 @@ These lines are for situations where things go off the rails.  It's important in
 <h3>Disturbance or Distraction</h3>
 </summary>
 
-* "I had a friend who died from a sneeze like that, of course, he was standing in his neighbor's closet" - (Charles Jarvis)[https://en.wikipedia.org/wiki/Charles_Jarvis_(businessman)]
+* "I had a friend who died from a sneeze like that, of course, he was standing in his neighbor's closet" - [Charles Jarvis](https://en.wikipedia.org/wiki/Charles_Jarvis_(businessman))
 * when an audience member makes a fowl sound, "Is that accident or opinion?" - [Alan Pease](https://en.wikipedia.org/wiki/Allan_Pease)
 * audience members argue or talk loudly - "I think the party you're looking for is down the hall" - [W Mitchell](https://en.wikipedia.org/wiki/W_Mitchell)
 * microphone feedback, someone coughs loudly etc. just look disgruntled and say "critics!" - [Gant Laborde](https://gantlaborde.com/)
