@@ -125,6 +125,7 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 * "My father always said, if you want a room of people to listen to you, start off with a quote from me... thanks Dad" - [Gant Laborde](https://gantlaborde.com/)
 * "Last night I tried to eliminate anything in my speech that seemed in any way dull. So in conclusion..." - [Terry Paulson](http://www.terrypaulson.com/)
 * "Good evening, everyone. I'm honored to be here tonight, despite the fact that I'm pretty sure I got invited by mistake." - [chatGPT](https://chat.openai.com/chat)
+* After having some microphone issues, when verifying a microphone is live "I know a Polish guy who's a great sound engineer, I also know a czek one too, check one two" - Anon Joke - Gant Laborde used
 </details>
 
 <details>
