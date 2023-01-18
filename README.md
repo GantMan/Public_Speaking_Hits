@@ -16,6 +16,7 @@
    - [Openers](#openers)
    - [Intros](#intros)
    - [Closers](#closers)
+   - [Questions](#questions)
 - [Time Buyers](#-time-buyers)
   - [Q&A With Audience](#qa-with-audience)
   - [One Liners](#one-liners)
@@ -142,6 +143,20 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 
 * "I need to go. They don't even know I left the hospital." - [Gene Mitchener](https://twitter.com/sitdowncomic)
 * "I see we have run out of time before I have run out of things to say - that's what you get when your speaker is a manic expressive!" - [Lilly Walters](http://www.aboutonehandtyping.com/lilly.html)
+</details>
+
+<details>
+<summary>
+<h3>Questions</h3>
+</summary>
+
+* When no one answers "Any questions? (silence) any second questions? - [Allen Klein](https://www.allenklein.com/)
+* When you don't like the question "Please save all questions until I'm finished and well on my way home" - Current Comedy Newsletter
+* "Someone asked me that same question last week, and I"m going to dodge it the same way I did last time" then move on - [Garry Apple](https://twitter.com/gapplesny)
+* When you can't hear the question, "I used to have all the answers, now I don't even have the questions!" - Eileen Mason
+* "They say you get smarter when you know what you don't know, so I must be turning into a genius!" - [Lilly Walters](http://www.aboutonehandtyping.com/lilly.html)
+* "Hearing no questions, I guess that means my presentation was perfect!" - [Gant Laborde](https://gantlaborde.com/)
+* "Does anyone have any questions? Oh I do!" _raising your own hand and ask yourself a question_ - [Barry Eigan](https://www.wcspeakers.com/speaker/barry-eigen/)
 </details>
 
 ## ⌚ Time Buyers
