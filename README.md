@@ -152,11 +152,12 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 
 * When no one answers "Any questions? (silence) any second questions? - [Allen Klein](https://www.allenklein.com/)
 * When you don't like the question "Please save all questions until I'm finished and well on my way home" - Current Comedy Newsletter
-* "Someone asked me that same question last week, and I"m going to dodge it the same way I did last time" then move on - [Garry Apple](https://twitter.com/gapplesny)
+* "Someone asked me that same question last week, and I'm going to dodge it the same way I did last time" then move on - [Garry Apple](https://twitter.com/gapplesny)
 * When you can't hear the question, "I used to have all the answers, now I don't even have the questions!" - Eileen Mason
 * "They say you get smarter when you know what you don't know, so I must be turning into a genius!" - [Lilly Walters](http://www.aboutonehandtyping.com/lilly.html)
 * "Hearing no questions, I guess that means my presentation was perfect!" - [Gant Laborde](https://gantlaborde.com/)
 * "Does anyone have any questions? Oh I do!" _raising your own hand and ask yourself a question_ - [Barry Eigan](https://www.wcspeakers.com/speaker/barry-eigen/)
+* "I'm sorry, I couldn't hear you. Were you asking for my autograph?" - [chatGPT](https://chat.openai.com/chat)
 </details>
 
 ## ⌚ Time Buyers
