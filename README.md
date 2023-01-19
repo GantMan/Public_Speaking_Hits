@@ -226,6 +226,9 @@ A: Sir Render.
 
 Q: Why are there always POP tarts but never MOM tarts?<br>
 A: Because of the pastryarchy.
+
+Q: How do 37 mathematicians ride on a bus with 36 seats?<br>
+A: They carry the 1.
 </details>
 
 <details>
