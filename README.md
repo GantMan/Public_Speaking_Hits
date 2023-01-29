@@ -14,9 +14,10 @@
     - [Disturbance or Distraction](#disturbance-or-distraction)
 - [Speaker Seasoning](#-speaker-seasoning)
    - [Openers](#openers)
-   - [Intros](#intros)
+   - [Emcee](#emcee)
    - [Closers](#closers)
    - [Questions](#questions)
+   - [Late Entry](#late-entry)
 - [Time Buyers](#-time-buyers)
   - [Q&A With Audience](#qa-with-audience)
   - [One Liners](#one-liners)
@@ -130,11 +131,12 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 
 <details>
 <summary>
-<h3>Intros</h3>
+<h3>Emcee</h3>
 </summary>
 
 * "It takes guts to do what this person is going to do.  It also takes guts to be a an organ doner." - _Anon_
 * "This next person just told me I have two faults. They think I'm bad at listening, and... something else." - _Anon_
+* "Is everyone back from the break? If you're not back please raise your hand. (look around room)  If you're a rebel don't raise your hand. (crowd laughs) If you have telekenisis raise my hand. (fight your hand raising) Well done!"  - [Gant Laborde](https://gantlaborde.com/)
 </details>
 
 <details>
@@ -144,6 +146,7 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 
 * "I need to go. They don't even know I left the hospital." - [Gene Mitchener](https://twitter.com/sitdowncomic)
 * "I see we have run out of time before I have run out of things to say - that's what you get when your speaker is a manic expressive!" - [Lilly Walters](http://www.aboutonehandtyping.com/lilly.html)
+*Before I close and get my standing ovation..." - [Mikki Williams](https://www.mikkiwilliams.com/)
 </details>
 
 <details>
@@ -159,6 +162,20 @@ Lines to throw in to make your audience engage, excited, and keep things on the 
 * "Hearing no questions, I guess that means my presentation was perfect!" - [Gant Laborde](https://gantlaborde.com/)
 * "Does anyone have any questions? Oh I do!" _raising your own hand and ask yourself a question_ - [Barry Eigan](https://www.wcspeakers.com/speaker/barry-eigen/)
 * "I'm sorry, I couldn't hear you. Were you asking for my autograph?" - [chatGPT](https://chat.openai.com/chat)
+</details>
+
+<details>
+<summary>
+<h3>Late Entry</h3>
+</summary>
+
+* In a cute manner, "Did you bring a note from home?" - [Mikki Williams](https://www.mikkiwilliams.com/)
+* "About time you showed up, I was starting to think I was going to have to give the whole presentation myself." - [chatGPT](https://chat.openai.com/chat)
+* "Everyone in the room just sang a song, now it's your turn" - [Jimmy Calano](https://theinnovatorsforum.org/speaker/jimmy-calano)
+* Obviouysly end a ficticious story that is meant for the later arriver "...And after I finished saving the bus full of orphans that's when president offered to make me King of the moon, which I humbly turned down. The End! Any questions?" - [Gant Laborde](https://gantlaborde.com/)
+* "You have to clean the erasers after class" - [Tom Antion](https://www.espeakers.com/marketplace/profile/3536/Tom-Antion)
+* "Oh great! I have to start all over again (sigh) Hi, my name is..." - [Gene Mitchener](https://twitter.com/sitdowncomic)
+
 </details>
 
 ## ⌚ Time Buyers
