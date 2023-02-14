@@ -279,4 +279,5 @@ A: They carry the 1.
 * I have a fear of elevators but I'm taking steps to avoid them.
 * Prison walls are never built to scale.
 * I have a friend who always skips a letter in the alphabet and never says "Y"
+* My boss asked me why I only get sick on week days. I said "I don't know. It must be my weekend immune system."
 </details>
