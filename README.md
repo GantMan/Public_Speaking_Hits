@@ -249,6 +249,9 @@ A: Boeing. Boeing. Boeing.
 
 Q: How do 37 mathematicians ride on a bus with 36 seats?<br>
 A: They carry the 1.
+    
+Q: They’re currently excavating the largest known dinosaur tibia to date.<br>
+A: It's a real shindig.
 </details>
 
 <details>
