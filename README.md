@@ -252,6 +252,9 @@ A: They carry the 1.
     
 Q: They’re currently excavating the largest known dinosaur tibia to date.<br>
 A: It's a real shindig.
+    
+Q: Why do cows wear bells?<br>
+A: Because their horns don't work.
 </details>
 
 <details>
