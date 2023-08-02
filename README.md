@@ -255,6 +255,9 @@ A: It's a real shindig.
     
 Q: Why do cows wear bells?<br>
 A: Because their horns don't work.
+
+Q: What do you call a line of people waiting for haircuts?<br>
+A: A barberqueue.
 </details>
 
 <details>
