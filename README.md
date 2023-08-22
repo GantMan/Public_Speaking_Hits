@@ -252,6 +252,9 @@ A: They carry the 1.
     
 Q: They’re currently excavating the largest known dinosaur tibia to date.<br>
 A: It's a real shindig.
+
+Q: I told a joke in a zoom meeting and no one laughed.
+A: Turns out I'm not remotely funny.
     
 Q: Why do cows wear bells?<br>
 A: Because their horns don't work.
